@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ahmadshah2103
+- 👀 I’m interested in machine learning and deep learning.
+- 🌱 I’m currently learning machine learning,
+- 💞️ I’m looking to collaborate on ML and DL projects
+- 📫 How to reach me?, my phone number: +923159333672 or email: ahmad1911491@gmail.com
