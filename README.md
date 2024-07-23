@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <div>
-    ![Codewars](https://github.r2v.ch/codewars?user=ahmad1911491&stroke=%23BB432C)
+    <img src="![Codewars](https://github.r2v.ch/codewars?user=ahmad1911491&stroke=%23BB432C)"/>
   </div>
 </div>
 
@@ -79,10 +79,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
-
-###
-
-<a href="https://app.daily.dev/ahmadshah31"><img src="https://api.daily.dev/devcards/v2/NoYNG35RO4p6lrXaZG1ue.png?r=ecq&type=wide" width="652" alt="Ahmad Shah's Dev Card"/></a>
 
 ###
 
