@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <div>
-    <img src="![Codewars](https://github.r2v.ch/codewars?user=ahmad1911491&stroke=%23BB432C)"/>
+    <img src="https://www.codewars.com/users/ahmad1911491/badges/large"/>
   </div>
 </div>
 
