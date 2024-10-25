@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmad Shah</h1>
-<h3 align="center">A Backend Developer on steroids from Pakistan.</h3>
+<h3 align="center">A Full Stack Developer on steroids from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadshah2103&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadshah2103" /> </p>
 
-- 🔭 I’m currently working as a Backend Developer in [Algorithm.io](https://thealgorithm.io)
+- 🔭 I’m currently working as a Full Stack Developer in [Algorithm.io](https://thealgorithm.io)
 
 - 📫 How to reach me **ahmad1911491@gmail.com**
 
