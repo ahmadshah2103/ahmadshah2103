@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+👋%2C+I'm+Ahmad+Shah;Full+Stack+Developer+%7C+Pakistan" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Passionate Full Stack Developer crafting digital experiences</h3>
+<h3 align="center">Passionate Full Stack Developer crafting digital experiences</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmadshah2103&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />
@@ -15,28 +15,31 @@
 
 ```javascript
 const ahmadShah = {
-    location: "Pakistan 🇵🇰",
-    currentRole: "Full Stack Developer",
-    company: "Algorithm.io",
-    code: ["JavaScript", "TypeScript", "Python", "C++"],
-    askMeAbout: ["web dev", "machine learning", "data science", "tech"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Redux"],
-            css: ["Bootstrap", "Tailwind"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis", "SQLite"],
-        devOps: ["Docker", "Nginx"],
-        tools: ["Git", "Postman", "Firebase"],
-        machineLearning: ["TensorFlow", "Scikit-learn", "OpenCV", "Pandas", "Seaborn"]
+  location: "Pakistan 🇵🇰",
+  currentRole: "Full Stack Developer",
+  company: "Algorithm.io",
+  code: ["JavaScript", "TypeScript", "Python", "C++"],
+  askMeAbout: ["web development", "AI/ML", "databases", "system design", "tech"],
+  technologies: {
+    frontEnd: {
+      js: ["Next.js", "React", "Zustand", "TanStack Query"],
+      ui: ["Mantine UI", "Tailwind CSS", "Bootstrap"]
     },
-    currentFocus: "Building scalable web applications and exploring AI/ML",
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
+    backEnd: {
+      js: ["Node.js", "Express", "FastAPI"],
+      python: ["Django"],
+      serverless: ["Serverless Framework", "AWS Lambda"]
+    },
+    mobile: ["React Native", "Expo", "Firebase"],
+    databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis", "SQLite"],
+    orm: ["Sequelize", "Prisma"],
+    devOps: ["Docker", "Nginx", "Vercel", "Appwrite", "Neon"],
+    tools: ["Git", "Postman", "Cursor IDE", "Zed"],
+    machineLearning: ["TensorFlow", "Scikit-learn", "OpenCV", "Pandas", "Seaborn"]
+  },
+  currentFocus: "Building scalable SaaS apps, LMS platforms, and AI-powered solutions",
 };
+
 ```
 
 ## 🔭 What I'm Up To
