@@ -1,90 +1,54 @@
-<div align="center">
+# Ahmad Shah Khattak
 
-# Ahmad Shah
-
-### Product Engineer
+**Product Engineer building healthcare AI, full-stack, mobile, and RAG systems.**
 
 Most devs make it work. I make it feel right.
 
-[Portfolio](https://iahmadshah.me) · [LinkedIn](https://linkedin.com/in/ahmadshahkhattak) · [Email](mailto:ahmad1911491@gmail.com)
+[Portfolio](https://iahmadshah.me) · [LinkedIn](https://www.linkedin.com/in/ahmadshahkhattak) · [Substack](https://substack.com/@iahmadshah)
 
-</div>
 
-<br />
 
-## 01 / Background
+## What I Build
 
-I came to engineering through the back door: premedical student, self-taught across multiple domains, then dropped into production systems with real constraints.
+I work across product behavior, backend architecture, mobile systems, and AI workflows.
 
-That path is why I build differently.
+Current focus: healthcare AI, clinician-facing workflows, structured note generation, patient context, mobile releases, and production deployment.
 
-I work across full-stack, mobile, and AI systems, usually in environments where the real job is not just writing code, but making the product hold together under ambiguity, changing scope, operational pressure, and live user needs.
 
-<br />
 
-## 02 / Snapshot
+## Selected Work
 
-| | |
-| :--- | :--- |
-| **Location** | Pakistan (Remote Ready) |
-| **Experience** | Full-Stack / Mobile / AI |
-| **Primary Stack** | React Native · Node.js · AWS |
-| **AI Systems** | LangGraph · RAG · Context Engineering |
-| **Domain** | Healthcare / Clinical Workflows |
+**Clinical Workflow Assistant**
+Healthcare AI system across iOS, Android, and web. Worked on clinician workflows, encounter capture, patient context, AI note generation, backend services, and app-store release cycles.
 
-<br />
+**AI Receptionist Dashboard**
+Dashboard and backend foundation for an AI receptionist workflow, including auth, database design, APIs, and handoff-ready product structure.
 
-## 03 / Selected Work
+**School Management System**
+Operational school-management workflows involving roles, fees, student records, admin flows, and production database changes.
 
-### Clinical Workflow Assistant
-A high-stakes clinical AI platform built for real medical workflows, not generic chat. I led engineering across backend architecture, mobile delivery, infrastructure transitions, and the design of the encounter workflow.
 
-### School Management System
-A full-stack administrative platform with complex fee logic, multi-role workflows, and production constraints that required strong system design, not just feature delivery.
 
-### AI Receptionist Dashboard
-A one-month build of dashboard foundation, backend systems, data structure, and marketing site, delivered as a working product base for continued development.
+## Independent Research
 
-<br />
+**CoBAC**
+Architecture exploration around authorization-aware RAG: resolving access before vector retrieval so unauthorized chunks do not enter search, logs, or model context.
 
-## 04 / How I Work
+[Publication](https://doi.org/10.5281/zenodo.18130690)
 
-- I optimize for products that feel coherent, not just functional.
-- I make technical decisions based on product needs, not familiarity.
-- I care about code quality, architectural clarity, and shipping under real constraints.
-- I work best where ownership matters and ambiguity is part of the job.
 
-<br />
 
-## 05 / Stack
+## Stack
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Frontend** | Next.js, React, Zustand, Mantine UI, Tailwind CSS |
-| **Mobile** | React Native, Expo, RevenueCat, Firebase |
-| **Backend** | Node.js, Express, Python, FastAPI, Serverless |
-| **Database** | PostgreSQL, MongoDB, Redis, SQLite |
-| **DevOps** | Docker, AWS, EC2, S3, ECR, Nginx, GitHub Actions |
-| **AI / ML** | RAG, OpenAI SDK, Gemini SDK, Pandas |
+**Frontend:** Next.js · React · Tailwind · ShadCN
+**Mobile:** React Native · Expo · Firebase
+**Backend:** Node.js · Express · FastAPI · Serverless
+**Data:** PostgreSQL · Sequelize · Redis · MongoDB · pgvector
+**Infra:** AWS · Docker · GitHub Actions
+**AI:** LangGraph · RAG · Gemini SDK · OpenAI SDK
 
-<br />
 
-## 06 / GitHub Activity
+## Contact
 
-<div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=ahmadshah2103&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=F9F7F4&title_color=B84724&text_color=5A5550&icon_color=B84724&ring_color=B84724"
-    alt="GitHub stats"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadshah2103&layout=compact&hide_border=true&bg_color=F9F7F4&title_color=B84724&text_color=5A5550"
-    alt="Top languages"
-  />
-  <br /><br />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadshah2103&hide_border=true&background=F9F7F4&ring=B84724&fire=B84724&currStreakLabel=B84724&sideLabels=6B6560&currStreakNum=0F0E0D&sideNums=0F0E0D&dates=8C716A"
-    alt="GitHub streak"
-  />
-</div>
+**Email:** [ahmadshah.swe@gmail.com](mailto:ahmadshah.swe@gmail.com)
+**Portfolio:** [iahmadshah.me](https://iahmadshah.me)
