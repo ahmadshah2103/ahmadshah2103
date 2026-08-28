@@ -28,7 +28,7 @@ Production healthcare AI platform shipped across iOS, Android, and web. Worked a
 
 ## Stack
 
-**Core:** TypeScript · React · Next.js · Tanstack Echosystem · React Native · Node.js · PostgreSQL · MongoDB
+**Core:** TypeScript · React · Next.js · Tanstack ecosystem · React Native · Node.js · PostgreSQL · MongoDB
 
 **AI:** LangGraph · RAG · Gemini
 
